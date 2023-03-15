@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: yellow;
+}
+#link
+{
+    font-size: large;
+}
+
+strong {
+    color: white;
+    font-size: 14px;
+}
