@@ -1,4 +1,2 @@
-# pastinha
-esse bagulho é meu.
-
+# antigo
 FMG - @_frnado
